@@ -37,7 +37,7 @@ rock-paper-scissors/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/Vigneswaran-SL/rock-paper-scissors.git
    ```
 
 2. Navigate to the project folder:
